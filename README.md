@@ -1,14 +1,14 @@
 # Digital Image Processing — Filters & Compression
 
 ## Folder Structure
-- `filters/` — Standalone Python scripts for spatial filters applied to the Intensity (I) channel of an HSI image, plus a ready-to-use sample image (`input.jpg`):
+- `filters/` 
   - `1_mean_filter_hsi.py`
   - `2_gaussian_filter_hsi.py`
   - `3_median_filter_hsi.py`
   - `4_laplacian_filter_hsi.py`
   - `5_sobel_filter_hsi.py`
-  - `input.jpg` (replace with your own image if desired)
-- `compression/` — Pure Python lossless compression implementations:
+  - `input.jpg` 
+- `compression/`  
   - `huffman_coding.py`
   - `arithmetic_coding.py`
 
